@@ -6,11 +6,11 @@ Il repository è suddiviso in vari capitoli, ciascuno che verte su un aspetto de
 
 ### Capitoli
 #### 1) Sistemi operativi
-- [Cosa sono e cosa fanno?](https://github.com/Gabri432/Sistemi_operativi/Architettura/parte_1.md)
-- [Che struttura posson avere?](https://github.com/Gabri432/Sistemi_operativi/Architettura/parte_2.md)
+- [Cosa sono e cosa fanno?](https://github.com/Gabri432/Sistemi_operativi/blob/master/Architettura/parte_1.md)
+- [Che struttura posson avere?](https://github.com/Gabri432/Sistemi_operativi/blob/master/Architettura/parte_2.md)
 #### 2) Processi
-- [Cosa sono?](https://github.com/Gabri432/Sistemi_operativi/Processi/parte_1.md)
-- [Schedulazione](https://github.com/Gabri432/Sistemi_operativi/Processi/parte_2_schedulazione.md)
+- [Cosa sono?](https://github.com/Gabri432/Sistemi_operativi/Processi/blob/master/parte_1.md)
+- [Schedulazione](https://github.com/Gabri432/Sistemi_operativi/Processi/blob/master/parte_2_schedulazione.md)
 - Comunicazione (da fare)
 #### 3) Thread
 - da definire
