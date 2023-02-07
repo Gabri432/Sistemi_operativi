@@ -29,5 +29,5 @@ Il repository è suddiviso in vari capitoli, ciascuno che verte su un aspetto de
 - Se volete segnalare dei problemi potete farlo [qui](https://github.com/Gabri432/Sistemi_operativi/issues/new).
 
 ## Fonte
-Titolo: `"Operating System Concepts (Tenth Edition)"`.
-Autori: `Abraham Silberschatz`, `Peter Baer Galvin`, `Greg Gagne`. 
+- Titolo: `"Operating System Concepts (Tenth Edition)"`.
+- Autori: `Abraham Silberschatz`, `Peter Baer Galvin`, `Greg Gagne`. 
