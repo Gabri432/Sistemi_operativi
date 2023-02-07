@@ -30,7 +30,7 @@
 
 ### Moduli
 - Uno dei metodi usati è il Caricamento dei Moduli del Kernel (Loadable Kernel Modules), dove il kernel ha un insieme di componenti fondamentali (cioè strettamente essenziali) e può collegarsi servizi addizionali per mezzo dei moduli, sia all'avvio del computer che a runtime (ad esecuzione del kernel);
-- Collegando i servizi, anzichè aggiungerli direttamente al kernel, permette di evitare la ricompilazione dello stesso ad ogni cambiamento;
+- Collegare i servizi, anzichè aggiungerli direttamente al kernel, permette di evitare la ricompilazione dello stesso ad ogni cambiamento;
 - Il risultato è più flessibile dell'approccio a layer perchè ogni modulo può chiamare ogni altro modulo, ed è più efficiente del microkernel perchè i moduli non necessitano del passaggio dei messaggi per la comunicazione;
 - Tale approccio è usato in Linux, Windows, MacOs e Solaris.
 
