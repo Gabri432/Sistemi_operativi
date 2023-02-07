@@ -44,3 +44,16 @@
 - Rilevamento degli errori di interfaccia tra componenti dei sottosistemi;
 #### Sicurezza
 - Difesa da attacchi esterni o interni al sistema.
+
+
+
+## Servizi del sistema operativo
+- Interfaccia utente, che può essere grafica (GUI), touch-screen oppure una linea di comando;
+- Esecuzione dei programmi, dunque il loro caricamento e avviamento in memoria, così come la loro terminazione;
+- Operazioni I/O, devono essere forniti gli strumenti per effettuare operazioni di input e output, normalmente non direttamente controllabili dall'utente per ragioni di sicurezza;
+- Manipolazione del file-system, cioè sia gestione dei file medesimi che dei permessi a loro (o alle directories) associati.
+- Comunicazione tra processi, quindi via la condivisione della memoria o passaggio di un messaggio;
+- Rilevamento (e correzione) degli errori, sia a livello hardware, sia in I/O, sia tra i programmi dell'utente;
+- Allocazione delle risorse;
+- Registro delle attività, cioè dell'utilizzo delle risorse da parte di quali processi (o utenti);
+- Protezione e sicurezza.
