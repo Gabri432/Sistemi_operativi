@@ -5,8 +5,9 @@ Collezione di appunti per lo studio dei sistemi operativi.
 Il repository è suddiviso in vari capitoli, ciascuno che verte su un aspetto dei sistemi operativi.
 
 ### Capitoli
-#### 1) Architettura dei sistemi operativi
-- da definire
+#### 1) Sistemi operativi
+- [Cosa sono e cosa fanno?](https://github.com/Gabri432/Sistemi_operativi/Architettura/parte_1.md)
+- [Che struttura posson avere?](https://github.com/Gabri432/Sistemi_operativi/Architettura/parte_2.md)
 #### 2) Processi
 - da definire
 #### 3) Thread
