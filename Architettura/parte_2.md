@@ -37,6 +37,12 @@
 ### Sistemi Ibridi
 - In generale questo è l'approccio più comune dai sistemi operativi, cioè l'utilizzo di una combinazione di differenti strutture per fronteggiare i diversi requisiti di performance, sicurezza e usabilità.
 
+### Macchine Virtuali
+- Con questo approccio si vuole creare un'astrazione dell'hardware in modo tale da dare ad un processo l'illusione di avere una macchina tutta per se.
+- I vantaggi sono che ciascun processo gode di una protezione completa, permette di sviluppare e testare funzionalità in diversi sistemi operativi, permette inoltre di risolvere problemi di compatibilità tra sistema operativo e macchina;
+- Dal punto di vista del sistema operativo originale queste macchine virtuali non sono altro che processi utente;
+- Lo svantaggio è relativo alle performance, poichè ogni chiamata dal sistema della macchina virtuale affronta un viaggio più lungo, dallo stadio virtuale a quello fisico.
+
 
 ## Avviamento di un sistema operativo
 - Il caricamento del Kernel è chiamato Booting del sistema;
