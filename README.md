@@ -10,6 +10,7 @@ Il repository è suddiviso in vari capitoli, ciascuno che verte su un aspetto de
 - [Che struttura posson avere?](https://github.com/Gabri432/Sistemi_operativi/blob/master/Architettura/parte_2.md)
 #### 2) Processi
 - [Cosa sono?](https://github.com/Gabri432/Sistemi_operativi/blob/master/Processi/parte_1.md)
+- [Creazione e Terminazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Processi/parte_2.md)
 - [Schedulazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Processi/parte_2_schedulazione.md)
 - [Comunicazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Processi/comunicazione_tra_processi.md)
 #### 3) Thread
