@@ -12,7 +12,7 @@
 ### Spazio di indirizzo logico vs fisico
 - Un indirizzo generato dalla CPU è chiamato `indirizzo logico`, mentre se è visto dall'unità di memoria è detto `indirizzo fisico`;
 - Il collegamento a tempo di compilazione genera indirizzi fisici e logici identici, diversamente dal tempo di esecuzione. In questo secondo caso l'indirizzo logico è detto `indirizzo virtuale`. Dunque l'insieme degli indirizzi logici generati da un programma è detto `spazio degli indirizzi logici`. Mentre l'insieme degli indirizzi fisici associati è detto `spazio degli indirizzi fisici`;
-- L'`unità di gestione della memoria` si occupa del mappamento a run-time dall'indirizzo logico a quello virtuale, e perciò il programma dell'utente non accederà mai all'indirizzo fisico reale. Può solo generare e usare quelli logici.
+- L'`unità di gestione della memoria` si occupa del mappamento a run-time dall'indirizzo virtuale a quello fisico, e perciò il programma dell'utente non accederà mai all'indirizzo fisico reale. Può solo generare e usare quelli logici.
 
 ### Caricamento dinamico
 - Fino ad ora la memoria fisica limitava la dimensione massima dei processi;
