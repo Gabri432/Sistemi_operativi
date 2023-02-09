@@ -25,7 +25,9 @@ Il repository è suddiviso in vari capitoli, ciascuno che verte su un aspetto de
 #### 7) Memoria virtuale
 - da definire
 #### 8) File System
-- da definire
+- [Cosa sono?](https://github.com/Gabri432/Sistemi_operativi/blob/master/File_System/parte_1.md)
+- [Come sono fatti?](https://github.com/Gabri432/Sistemi_operativi/blob/master/File_System/parte_2.md)
+- [Come si proteggono?](https://github.com/Gabri432/Sistemi_operativi/blob/master/File_System/parte_3.md)
 
 
 ### Nota
