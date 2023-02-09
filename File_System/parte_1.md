@@ -38,7 +38,7 @@
 
 #### Accesso diretto
 - Il file in questo caso è composto da dei record logici di lunghezza fissa. La lettura e la scrittura nei record sono consentite rapidamente in qualunque ordine;
-- Si basa su un modello di file a disco, dato che i dischi consentono l'accesso casuale ad ogni file del blocco;
+- Si basa su un modello di file a disco, dato che i dischi consentono l'accesso casuale ad ogni blocco del file;
 - Tali tipi di file sono comodi per l'accesso immediato a grandi quantità di dati, infatti spesso utilizzati nei database.
 
 ### Altri metodi d'accesso
