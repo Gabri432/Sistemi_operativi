@@ -41,3 +41,7 @@
 - Tale sistema è unidirezionale, per cui serviranno due canali per la comunicazione a due sensi;
 - I canali possono essere acceduti dai processi con le chiamate `read()` e `write()`. Nessun processo fuori dal canale può accedervi;
 - In genere un processo genitore usa un canale per comunicare coi figli.
+
+### Canali con nome (Named pipes)
+- Comunicazione bi-direzionale che non necessita del rapporto genitore-figli;
+- Utilizzabile da diversi processi, quindi ci possono essere diversi produttori.
