@@ -14,7 +14,8 @@ Il repository è suddiviso in vari capitoli, ciascuno che verte su un aspetto de
 - [Schedulazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Processi/parte_2_schedulazione.md)
 - [Comunicazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Processi/comunicazione_tra_processi.md)
 #### 3) Thread
-- da definire
+- [Cosa sono?](https://github.com/Gabri432/Sistemi_operativi/blob/master/Thread/parte_1.md)
+- [Problemi dei thread](https://github.com/Gabri432/Sistemi_operativi/blob/master/Thread/parte_2.md)
 #### 4) Deadlock
 - da definire
 #### 5) Paginazione
