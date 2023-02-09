@@ -18,8 +18,9 @@ Il repository è suddiviso in vari capitoli, ciascuno che verte su un aspetto de
 - [Problemi dei thread](https://github.com/Gabri432/Sistemi_operativi/blob/master/Thread/parte_2.md)
 #### 4) Deadlock
 - da definire
-#### 5) Paginazione
-- da definire
+#### 5) Memoria
+- [A cosa serve?](https://github.com/Gabri432/Sistemi_operativi/blob/master/Memoria/parte_1.md)
+- [Paginazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Memoria/paginazione.md)
 #### 6) Segmentazione
 - da definire
 #### 7) Memoria virtuale
