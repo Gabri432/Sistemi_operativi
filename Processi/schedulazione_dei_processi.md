@@ -6,4 +6,5 @@
 - Quando un processo arriva nel sistema viene collocato nella coda di processi pronti (ready queue), altrimenti se sta attendendo per un evento che accada allora viene posto nella coda di attesa (wait queue);
 - Durante l'esecuzione di un processo questo può avere una richesta di I/O ed essere posto nella coda d'attesa, creare processi figli ed attendere nella coda d'attesa la terminazione di quest'ultimi, venire rimosso forzatamente (magari per via di un interrupt o se oltre il limite di tempo) e ricollocato alla coda dei processi pronti;
 - La CPU scheduler deve allocare un core ad uno dei processi in ready queue;
+- Altri sistemi operativi invece adottano la tecnica dello `swapping`, dove talvolta un processo può venire rimosso dalla memoria per poi venire reinserito in essa e riprendere la sua esecuzione;
 - Quando accade un interrupt si fa ricorso al salvataggio dello stato del core della CPU, per poi la ripresa delle operazioni. Questo processo è chiamato Cambio di Contesto (Context Switch).
