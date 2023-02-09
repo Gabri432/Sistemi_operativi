@@ -34,3 +34,10 @@
 - Capacità nulla (Zero capacity), il collegamento non può ricevere alcun messaggio che attente al suo interno, il mittente blocca fino a quando il ricevente riceve il messaggio;
 - Capacità limitata (Bounded capacity), il collegamento ha una capacità limitata e quindi una volta pieno il mittente dovrà bloccare prima che si liberi un po; 
 - Capacità illimitata (Unbounded capacity), una quantità illimitata di messaggi possono essere in attesa in coda, il mittente non blocca mai.
+
+
+### Canali ordinari (Ordinary pipes)
+- Un canale ordinario consente a due processi di comunicare secondo il modello produttore-consumatore, ciascuno che sta ad un capo del tubo;
+- Tale sistema è unidirezionale, per cui serviranno due canali per la comunicazione a due sensi;
+- I canali possono essere acceduti dai processi con le chiamate `read()` e `write()`. Nessun processo fuori dal canale può accedervi;
+- In genere un processo genitore usa un canale per comunicare coi figli.
