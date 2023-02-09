@@ -8,6 +8,7 @@
 - Il file system o l'archivio di supporto viene diviso in blocchi delle stesse dimensioni dei frame. Così facendo lo spazio d'indirizzamento logico è completamente separato da quello fisico;
 - Ogni indirizzo della CPU è separato in un `numero di pagina` e in un `offset di pagina`;
 - Il numero di pagina viene usato come indice della tabella delle pagine per processo. Tale tabella contiene l'indirizzo di base di ciascun frame nella memoria fisica e l'offset è la locazione nel frame che viene referenziata;
+- **L'indirizzo di base del frame è combinato con l'offset della pagina per definire l'indirizzo della memoria fisica**;
 - Per tradurre l'indirizzo logico generato dalla CPU in uno fisico la MMU deve: estrarre il numero di pagina e usarlo come indice della tabella delle pagine, estrarre il corrispondente numero di frame dalla tabella, rimpiazzare il numero di pagina nell'indirizzo logico con il numero di frame;
 - Il numero di frame e l'offset comprendono ora l'indirizzo fisico.
 
