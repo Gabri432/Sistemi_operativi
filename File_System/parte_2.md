@@ -4,7 +4,7 @@
 
 ### Directory a livello singolo
 - Tutti i file sono contenunti nella stessa directory, che è facile da supportare e comprendere;
-- Vi sono però diverse limitazioni, legate sopprattutto all'incremento del numero dei file;
+- Vi sono però diverse limitazioni, legate soprattutto all'incremento del numero dei file;
 - In particolare si deve garantire che tutti i file abbiano nomi univoci, ed è difficile che anche in un sistema con un solo utente sia possibile ricordarseli tutti.
 
 ### Directory a due livelli
