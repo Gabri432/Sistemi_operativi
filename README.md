@@ -11,7 +11,7 @@ Il repository è suddiviso in vari capitoli, ciascuno che verte su un aspetto de
 #### 2) Processi
 - [Cosa sono?](https://github.com/Gabri432/Sistemi_operativi/blob/master/Processi/parte_1.md)
 - [Creazione e Terminazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Processi/parte_2.md)
-- [Schedulazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Processi/schedulazione_tra_processi.md)
+- [Schedulazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Processi/schedulazione_dei_processi.md)
 - [Comunicazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Processi/comunicazione_tra_processi.md)
 #### 3) Thread
 - [Cosa sono?](https://github.com/Gabri432/Sistemi_operativi/blob/master/Thread/parte_1.md)
