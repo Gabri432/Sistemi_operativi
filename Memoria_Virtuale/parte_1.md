@@ -5,15 +5,15 @@
 - Fornisce un efficiente modo di creare processi;
 - Non è tuttavia facile da implementare, in più c'è una penalizzazione in termini di performance se tale tecnica è usata senza misura. 
 
-### Benefici dei programmi parzialmente in memoria
-- I programmi non sono più limitati dalle dimensioni della memoria;
-- Dato che ciascun programma occupa meno spazio, più programmi possono venire eseguiti, così da aumentare l'utilizzo della CPU e il throughput senza incremento dei tempi di risposta;
-- Vi saranno meno operazioni di I/O per il caricamento o swapping di porzioni di programmi in memoria, risultando in programmi che si eseguono più velocemente.
-
 ### Altri benefici della memoria virtuale
 - Le librerie di sistema possono venire condivise da molteplici processi grazie alla mappatura dell'oggetto condiviso nell'indirizzo di memoria virtuale;
 - I processi possono condividere la memoria. Un processo può quindi creare una regione di memoria condivisibile con altri processi;
 - Le pagine possono essere condivise durante la creazione dei processi con la chiamata fork(), quindi velocizzando tale creazione.
+
+### Benefici dei programmi parzialmente in memoria
+- I programmi non sono più limitati dalle dimensioni della memoria;
+- Dato che ciascun programma occupa meno spazio, più programmi possono venire eseguiti, così da aumentare l'utilizzo della CPU e il throughput senza incremento dei tempi di risposta;
+- Vi saranno meno operazioni di I/O per il caricamento o swapping di porzioni di programmi in memoria, risultando in programmi che si eseguono più velocemente.
 
 ### Paginazione su richiesta (Demand Paging)
 - Con questa tecnica le pagine vengono caricate solo quando vengono richieste in fase di esecuzione del programma. Le pagine che non vengono mai accedute non vengono mai caricate in memoria fisica. Perciò la memoria viene usata più efficientemente;
