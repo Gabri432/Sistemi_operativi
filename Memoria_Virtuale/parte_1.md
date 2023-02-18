@@ -23,7 +23,7 @@
 #### Page fault
 - Se un processo cercasse di accedere ad una pagina invalida causerebbe un  `page fault`. Cioè l'hardware avrà inviato un segnale di `trap` al sistema operativo, e questo trap è il risultato del fallimento del sistema operativo nel fornire la pagina richiesta in memoria;
 - Per gestire tale situazione si dovrà cercare una tabella interna per il processo coinvolto per determinare se la referenza fosse valida o invalida;
-- Se invalida allora il processo viene terminato. Viceversa se valida allora ma la pagina non è ancora stata inserita, verrà inserita;
+- Se invalida allora il processo viene terminato. Viceversa se valida ma la pagina non è ancora stata inserita, verrà allora inserita;
 - Si trova un frame libero e si schedula una operazione in archiviazione secondaria per leggere la pagina desiderata nel frame nuovamente allocato;
 - Quando la lettura è completata si modifica la tabella interna tenuta con il processo e la tabella della pagina per indicare che la pagina è ora in memoria;
 - Si riavvia l'istruzione precedentemente interrotta dalla trap, così che ora il processo possa accedere alla pagina.
