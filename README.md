@@ -21,14 +21,16 @@ Il repository è suddiviso in vari capitoli, ciascuno che verte su un aspetto de
 #### 5) Memoria
 - [A cosa serve?](https://github.com/Gabri432/Sistemi_operativi/blob/master/Memoria/parte_1.md)
 - [Paginazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Memoria/paginazione.md)
-#### 6) Segmentazione
+- Segmentazione (da definire)
+#### 6) Memoria Virtuale
 - da definire
-#### 7) Memoria virtuale
-- da definire
+#### 7) Gestione Sistemi di input ed output
+- [Come funziona?](https://github.com/Gabri432/Sistemi_operativi/blob/master/Input_output/parte_1.md) (incompleta)
 #### 8) File System
 - [Cosa sono?](https://github.com/Gabri432/Sistemi_operativi/blob/master/File_System/parte_1.md)
 - [Come sono fatti?](https://github.com/Gabri432/Sistemi_operativi/blob/master/File_System/parte_2.md)
 - [Come si proteggono?](https://github.com/Gabri432/Sistemi_operativi/blob/master/File_System/parte_3.md)
+- Implementazione (da definire)
 
 
 ### Nota
