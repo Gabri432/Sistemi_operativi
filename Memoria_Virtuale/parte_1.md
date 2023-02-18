@@ -48,3 +48,5 @@
 - Il tempo di accesso effettivo è direttamente proporzionale alla frequenza dei page fault, quindi tale frequenza deve essere la più bassa possibile. Un altro aspetto è la gestione e utilizzo dello spazio di swap;
 - Operare I/O allo spazio di swap è più veloce che al file system. Una opzione per il sistema di guadagnare throughput è di copiare l'intero file nello spazio di swap all'inizio del processo ed eseguire la paginazione su richiesta dallo swap space. Tale copiatura è ovviamente svantaggiosa;
 - Una seconda opzione è quella di eseguire il demang-paging dal file system inizialmente ma poi di scrivere le pagine nello spazio di swap nel momento in cui vengono rimpiazzate. Tale approccio si assicura che solo le pagine necessarie siano lette dal file system ma tutta la paginazione successiva avviene dallo spazio di swap;
+
+### [prossimo](https://github.com/Gabri432/Sistemi_operativi/blob/master/Memoria_Virtuale/parte_2.md)
