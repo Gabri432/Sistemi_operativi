@@ -57,3 +57,5 @@
 - Allocazione delle risorse;
 - Registro delle attività, cioè dell'utilizzo delle risorse da parte di quali processi (o utenti);
 - Protezione e sicurezza.
+
+### [prosegui](https://github.com/Gabri432/Sistemi_operativi/blob/master/Architettura/parte_2.md)

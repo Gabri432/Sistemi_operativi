@@ -42,3 +42,6 @@
 - I vantaggi sono che ciascun processo gode di una protezione completa, permette di sviluppare e testare funzionalità in diversi sistemi operativi, permette inoltre di risolvere problemi di compatibilità tra sistema operativo e macchina;
 - Dal punto di vista del sistema operativo originale queste macchine virtuali non sono altro che processi utente;
 - Lo svantaggio è relativo alle performance, poichè ogni chiamata dal sistema della macchina virtuale affronta un viaggio più lungo, dallo stadio virtuale a quello fisico.
+
+
+### [prosegui](https://github.com/Gabri432/Sistemi_operativi/blob/master/Architettura/parte_3.md)

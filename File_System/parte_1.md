@@ -46,3 +46,6 @@
 #### Metodo per indice
 - L'indice contiene i puntatori a vari blocchi. Per cercare un record di un file si cerca prima l'indice e poi si usa un puntatore per accedere direttamente al file e cercare il record desiderato;
 - Per file larghi l'indice può diventare troppo largo per essere tenuto in memoria. Una soluzione è la creazione di un indice per il file dell'indice. Il primo file indice contiene puntatori a file indici secondari, che punteranno ai dati effettivi. 
+
+
+### [prosegui](https://github.com/Gabri432/Sistemi_operativi/blob/master/File_System/parte_2.md)

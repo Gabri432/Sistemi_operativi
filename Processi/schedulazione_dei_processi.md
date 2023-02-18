@@ -72,3 +72,5 @@
 - Lo svantaggio è in termini di performance, vi è un collo di bottiglia con questo approccio;
 - Vi è il multiprocessing `simmetrico`, dove ogni processore fa auto-schedulazione. Vi è quindi uno scheduler per ogni processore che esamina quale thread è da eseguire;
 - Ciò permette due possibilità, tutti i thread potrebbero stare nella stessa coda, oppure ogni processore può avere una propria coda di thread.
+
+### [Vai a comunicazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Processi/comunicazione_tra_processi.md)

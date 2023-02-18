@@ -13,3 +13,5 @@
 - Il genitore può causare la terminazione del figlio per diversi motivi: il figlio potrebbe aver superato l'utilizzo massimo delle sue risorse, il compito assegnato al figlio non è più necessario, il genitore sta terminando ed il sistema operativo non lascia processi orfani;
 - La terminazione a cascata (Cascading termination) consiste nella eliminazione di tutti i processi figli alla conclusione del genitore;
 - Se un processo è concluso ma il suo genitore non ha chiamato wait() questo processo diventa `zombie`, cioè i processi figli sono orfani.
+
+### [Vai a comunicazione tra processi](https://github.com/Gabri432/Sistemi_operativi/blob/master/Processi/comunicazione_tra_processi.md)

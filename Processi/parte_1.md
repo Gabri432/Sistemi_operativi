@@ -29,3 +29,6 @@
 - `Informazione sulla gestione della memoria`;
 - `Informazioni di conteggio` (accounting = contabilità), che include la quantità di CPU utilizzata, e altri numeri;
 - `Informazioni sullo stato di I/O`, che include la lista di dispositivi I/O allocati al processo, la lista di file aperti, ecc...
+
+
+### [prosegui](https://github.com/Gabri432/Sistemi_operativi/blob/master/Processi/parte_2.md)

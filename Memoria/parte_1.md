@@ -55,3 +55,6 @@
 - La frammentazione può essere anche `interna`. Cioè vi è memoria non usata interna ad una partizione, poichè la memoria allocata ad un processo può essere maggiore di quella richiesta;
 - La frammentazione esterna si risolve rimettendo insieme gli spazi di memoria liberi in un unico blocco, ma non è sempre possibile. Può avvenire solo con la rilocazione dinamica ed è effettuata a run-time. Inoltre è un procedimento costoso;
 - Una seconda soluzione è consentire l'esistenza di spazio di indirizzi logici non contiguo, cioè di allocare memoria fisica ad un processo quando questa è disponibile. Questa strategia è detta `paginazione`.
+
+
+### [Vai a Paginazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Memoria/paginazione.md)

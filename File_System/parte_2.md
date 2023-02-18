@@ -33,3 +33,6 @@
 - In un grafo generale si fa utilizzo di un garbage collector per determinare quando l'ultimo riferimento ad un file è stato cancellato;
 - La garbage collection attraversa tutti i file mappando tutti i possibili accessi. Dunque tutto il resto è segnato come spazio libero, ma tale procedimento è lento per un file system basato sul disco;
 - La garbage collection è necessaria per evitare i cicli con l'aggiunta di nuovi link alla struttura del grafo aciclico.
+
+
+### [prosegui](https://github.com/Gabri432/Sistemi_operativi/blob/master/File_System/parte_3.md)

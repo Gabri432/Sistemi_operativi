@@ -48,3 +48,6 @@
 ### Fork-join
 - Una libreria è responsabile per il numero di thread che sono creati e per l'assegnamento dei taska quest'ultimi;
 - Funziona come una versione sicrona dei thread pool.
+
+
+### [prosegui](https://github.com/Gabri432/Sistemi_operativi/blob/master/Thread/parte_2.md)

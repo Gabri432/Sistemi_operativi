@@ -45,3 +45,5 @@
 ### Canali con nome (Named pipes)
 - Comunicazione bi-direzionale che non necessita del rapporto genitore-figli;
 - Utilizzabile da diversi processi, quindi ci possono essere diversi produttori.
+
+### [Vai a schedulazione dei processi](https://github.com/Gabri432/Sistemi_operativi/blob/master/Processi/schedulazione_dei_processi.md)
