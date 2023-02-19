@@ -54,3 +54,5 @@
 
 #### Page-Buffering 
 - Alcuni sistemi mantengono una riserva di frame liberi. La scelta della vittima accade come prima, ma la pagina desiderata è letta in uno di questi frame. Questo metodo consente al processo di riavviarsi il prima possibile. Selezionata la vittima il suo frame viene aggiunto alla riserva.
+
+### [prossimo](https://github.com/Gabri432/Sistemi_operativi/blob/master/Memoria_Virtuale/parte_3.md)
