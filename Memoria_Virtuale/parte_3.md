@@ -35,7 +35,7 @@
 - Si esaminano le referenze di pagine più recenti. Il set di pagine nelle referenze di pagine più recenti è il working-set. Quindi una pagina attiva si troverà nel working-set, se non viene più usata uscirà dal working-set;
 - La proprietà più importante del working-set è la sua dimensione e la somma dei working-set di tutti i processi nel sistema compone la domanda totale di frame. Se la domanda totale supera il numero di frame disponibili allora vi sarà thrashing;
 - Il vantaggio di questo modello è che previene il thrashing mantenendo alto il grado di multiprogrammazione, quindi ottimizza l'utilizzo della CPU, ma la difficoltà sta nel tenere traccia di tale working-set;
-- La working-set window varia, poichè ad ogni referenza di memoria una nuova referenza viene aggiunta e quella vecchia viene rimossa. Una pagina è nel working-set se viene referenziata ovunque nel working-set window;
+- La working-set window varia, poichè ad ogni referenza di memoria una nuova referenza viene aggiunta e quella più vecchia nel set viene rimossa. Una pagina è nel working-set se viene referenziata ovunque nel working-set window;
 - Si può approssimare il working-set con un bit di referenza ed un interrupt che funge da timer a intervallo fissato.  
 
 ### Frequenza del page-fault
