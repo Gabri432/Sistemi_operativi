@@ -42,3 +42,5 @@
 - Il working-set model pur fornendo conoscenza del working-set complica la gestione del thrashing. Un approccio diretto è quello della `frequenza del page-fault (page-fault frequency)`;
 - Si stabiliscono un limite superiore ed inferiore di frequenza dei page-fault (rispettivamente per troppi pochi e troppi frame allocati a ciascun processo). Superato il limite superiore si allocano nuovi frame al processo, superato quello inferiore si rimuovono frame al processo;
 - Così facendo si può controllare e misurare direttamente la frequenza dei page-fault per prevenire il thrashing. Mentre con il working-set model si doveva fare ricorso allo swapping. 
+
+### [prossimo](https://github.com/Gabri432/Sistemi_operativi/blob/master/Memoria_Virtuale/parte_4.md)
