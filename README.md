@@ -21,7 +21,7 @@ Il repository è suddiviso in vari capitoli, ciascuno che verte su un aspetto de
 #### 5) Memoria
 - [A cosa serve?](https://github.com/Gabri432/Sistemi_operativi/blob/master/Memoria/parte_1.md)
 - [Paginazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Memoria/paginazione.md)
-- Segmentazione (da definire)
+- [Segmentazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Memoria/segmentazione.md)**
 #### 6) Memoria Virtuale
 - [Che cos'è?](https://github.com/Gabri432/Sistemi_operativi/blob/master/Memoria_Virtuale/parte_1.md)
 - [Rimpiazzamento delle pagine](https://github.com/Gabri432/Sistemi_operativi/blob/master/Memoria_Virtuale/parte_2.md)
@@ -36,11 +36,13 @@ Il repository è suddiviso in vari capitoli, ciascuno che verte su un aspetto de
 - Implementazione (da definire)
 
 
+## Fonte principale
+- Titolo: `Operating System Concepts (Tenth Edition)`.
+- Autori: `Abraham Silberschatz`, `Peter Baer Galvin`, `Greg Gagne`. 
+
 ### Nota
 - Questo repository ha il solo scopo di presentare i vari concetti riguardanti i sistemi operativi. Non si sostituisce ad un libro.
 - Ci possono essere degli errori o delle imprecisioni nel repository, quindi si è invitati a non trattarne il contenuto come affidabile al 100%.
 - Se volete segnalare dei problemi potete farlo [qui](https://github.com/Gabri432/Sistemi_operativi/issues/new).
+- ** la fonte è [Wikipedia (inglese)](https://en.wikipedia.org/wiki/Memory_segmentation) e [GeekForGeeks (inglese)](https://www.geeksforgeeks.org/segmentation-in-operating-system/).
 
-## Fonte
-- Titolo: `Operating System Concepts (Tenth Edition)`.
-- Autori: `Abraham Silberschatz`, `Peter Baer Galvin`, `Greg Gagne`. 
