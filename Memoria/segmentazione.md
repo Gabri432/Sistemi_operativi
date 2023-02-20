@@ -3,7 +3,7 @@
 - Una referenza ad una locazione di memoria consiste in un valore che identifica un segmento ed un offset all'interno di quel segmento;
 - I segmenti corrispondono a divisioni naturali del programma, come routine individuali o tabelle di dati. In generale quindi la segmentazione è più visibile al programmatore della paginazione;
 - Il segmento base è associato ad ogni segmento e ne indica la posizione in memoria;
-- Quando un programma fa una referenza una locazione di memoria l'offset è aggiunto al segmento di base per generare l'indirizzo fisico; 
+- Quando un programma fa una referenza ad una locazione di memoria l'offset è aggiunto al segmento di base per generare l'indirizzo fisico; 
 
 ### Implementazione hardware
 - Gli indirizzi di memoria si compongono da un id del segmento e un offest all'interno del segmento. La traduzione da indirizzo logico a fisico avviene allo stesso modo della paginazione;
