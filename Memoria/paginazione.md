@@ -25,3 +25,5 @@
 - L'utilizzo di bit di protezione associati a ciascun frame consente la protezione della memoria in un ambiente impaginato;
 - Un bit può definire le operazioni consentite in una pagina (solo lettura, solo scrittura, ambedue);
 - Si viene ad aggiungere un bit di `validità-invalidità`. Quando è valido la pagina associata è nello spazio di indirizzamento logico del processo e quindi è una pagina legale. Altrimenti non si trova in tale spazio ed è illegale.
+
+### [Vai a frammentazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Memoria/segmentazione.md)
