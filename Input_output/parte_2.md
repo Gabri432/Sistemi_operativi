@@ -25,3 +25,5 @@
 ### I/O bloccante e non
 - Quando un'applicazione invia un chiamata di blocco al sistema l'esecuzione del thread chiamante viene sospesa e tale thread viene spostato nella coda di attesa. Infine verrà ripristinato alla terminazione della chiamata;
 - Alcuni processi utente necessitano di chiamate non bloccanti. Ad esempio l'interfaccia utente che riceve l'input dal mouse e dalla tastiera e mostra i dati sullo schermo;
+
+### [prossimo](https://github.com/Gabri432/Sistemi_operativi/blob/master/Input_output/parte_3.md)
