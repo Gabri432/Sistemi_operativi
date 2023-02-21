@@ -30,7 +30,7 @@ Il repository è suddiviso in vari capitoli, ciascuno che verte su un aspetto de
 #### 7) Gestione Sistemi di input ed output
 - [Come funziona?](https://github.com/Gabri432/Sistemi_operativi/blob/master/Input_output/parte_1.md)
 - [Interfacce d'applicazione](https://github.com/Gabri432/Sistemi_operativi/blob/master/Input_output/parte_2.md)
-- Sottosistema kernel (da definire)
+- [Sottosistema kernel](https://github.com/Gabri432/Sistemi_operativi/blob/master/Input_output/parte_3.md)
 #### 8) File System
 - [Cosa sono?](https://github.com/Gabri432/Sistemi_operativi/blob/master/File_System/parte_1.md)
 - [Come sono fatti?](https://github.com/Gabri432/Sistemi_operativi/blob/master/File_System/parte_2.md)
