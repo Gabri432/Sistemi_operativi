@@ -36,3 +36,5 @@
 - La CPU scrive l'indirizzo del blocco al controller del DMA e si incarica di altro lavoro;
 - Il DMA controller opera direttamente sul bus, piazzando gli indirizzi in esso per effettuare trasferimenti senza l'aiuto della CPU;
 - Una seconda operazione è necessaria per ottenere i dati trasferiti dal DMA allo spazio utente per l'accesso dei thread. Si genera un doppio buffering inefficiente.
+
+### [prossimo](https://github.com/Gabri432/Sistemi_operativi/blob/master/Input_output/parte_2.md)
